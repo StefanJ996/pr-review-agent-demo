@@ -1,22 +1,22 @@
-"""Saberi dva broja sa novim funkcijama."""
+"""Add two numbers with additional functions."""
 
 
 def add(a: int, b: int) -> int:
-    """Saberi dva broja."""
+    """Add two numbers."""
     return a + b
 
 
 def multiply(a: int, b: int) -> int:
-    """Pomnozi dva broja."""
+    """Multiply two numbers."""
     return a * b
 
 
 def divide(a, b):
-    """Podeli dva broja. Bez type hints, bez null check-a."""
+    """Divide two numbers. No type hints and no null checks."""
     return a / b
 
 
 def Calculate_Stuff(X, Y):
-    """Lose imenovana funkcija sa lose imenovanim parametrima."""
+    """Poorly named function with poorly named parameters."""
     result = X + Y
     return result
