@@ -1,11 +1,11 @@
-"""Pocetna verzija fajla — bez problema."""
+"""Initial file version - no issues."""
 
 
 def add(a: int, b: int) -> int:
-    """Saberi dva broja."""
+    """Add two numbers."""
     return a + b
 
 
 def multiply(a: int, b: int) -> int:
-    """Pomnozi dva broja."""
+    """Multiply two numbers."""
     return a * b
