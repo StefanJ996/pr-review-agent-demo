@@ -1,4 +1,4 @@
-"""Login modul sa namjernim security problemima za demo agenta."""
+"""Login module with intentional security issues for demo purposes."""
 import hashlib
 import os
 import pickle
